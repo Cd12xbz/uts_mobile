@@ -1,0 +1,34 @@
+<ul data-role="listview">
+    <li data-icon="delete"><a href="#" data-rel="close">Close menu</a></li>
+    <li><a href="<?PHP echo base_url('index.php');?>">Dasboard</a></li>
+    <li><a href="<?PHP echo base_url('index.php/C_barang_group');?>">Barang</a></li>
+    <li><a href="<?PHP echo base_url('index.php/C_customer');?>">Customer</a></li>
+    <li><a href="<?PHP echo base_url('index.php/C_karyawan');?>">Karyawan</a></li>
+    <li><a href="#panel-responsive-page2">Penjualan</a></li>
+    <li><a href="#panel-responsive-page2">Collapsibles</a></li>
+    <li><a href="#panel-responsive-page2">Controlgroup</a></li>
+    <li><a href="#panel-responsive-page2">Dialogs</a></li>
+    <li><a href="#panel-responsive-page2">Fixed toolbars</a></li>
+    <li><a href="#panel-responsive-page2">Flip switch toggle</a></li>
+    <li><a href="#panel-responsive-page2">Footer toolbar</a></li>
+    <li><a href="#panel-responsive-page2">Form elements</a></li>
+    <li><a href="#panel-responsive-page2">Grids</a></li>
+    <li><a href="#panel-responsive-page2">Header toolbar</a></li>
+    <li><a href="#panel-responsive-page2">Icons</a></li>
+    <li><a href="#panel-responsive-page2">Links</a></li>
+    <li><a href="#panel-responsive-page2">Listviews</a></li>
+    <li><a href="#panel-responsive-page2">Loader overlay</a></li>
+    <li><a href="#panel-responsive-page2">Navbar</a></li>
+    <li><a href="#panel-responsive-page2">Navbar, persistent</a></li>
+    <li><a href="#panel-responsive-page2">Pages</a></li>
+    <li><a href="#panel-responsive-page2">New</a></li>
+    <li><a href="#panel-responsive-page2">Popup</a></li>
+    <li><a href="#panel-responsive-page2">Radio buttons</a></li>
+    <li><a href="#panel-responsive-page2">Select</a></li>
+    <li><a href="#panel-responsive-page2">Slider, single</a></li>
+    <li><a href="#panel-responsive-page2">New</a></li>
+    <li><a href="#panel-responsive-page2">New</a></li>
+    <li><a href="#panel-responsive-page2">New</a></li>
+    <li><a href="#panel-responsive-page2">Text inputs & textarea</a></li>
+    <li><a href="#panel-responsive-page2">Transitions</a></li>
+</ul>
